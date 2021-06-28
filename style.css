@@ -1,0 +1,47 @@
+.h1
+{
+    width: 80%;
+    height: 10%;
+    font-size: 35px;
+    background-color: gold;
+}
+.h3
+{
+    font-size: larger;
+
+}
+h5
+{
+    background-color: white;
+    padding:10px;
+    border-radius: 20px;
+}
+div
+{
+    background-color: aquamarine;
+    margin: 40px;
+    width:70%;
+    height:60%;
+    border-radius: 20px;
+}
+img
+{
+    height:20px;
+}
+.img_1
+{
+    height:100px;
+    width:100px;
+}
+.div_result
+{
+    background-color: cyan;
+    font-weight: bold;
+    height:70px;
+    border: 5px 5px 5px solid rgb(12, 116, 76);
+}
+
+body{
+    background-color: deeppink;
+}
+
